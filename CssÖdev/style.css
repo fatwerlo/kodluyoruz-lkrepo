@@ -1,0 +1,49 @@
+#h1-index{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    color: chocolate;
+}
+
+#pIndex{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    color: rgb(21, 87, 195);
+}
+#aIndex{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    color: rgb(21, 87, 195);
+}
+#h2Index{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    color: rgb(21, 87, 195);
+    text-decoration: underline;
+}
+#h1About{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    color: rgb(219, 103, 7);
+}
+#aAbout{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    color: rgb(21, 87, 195);
+}
+#olDiv{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+#ulIndex{
+    text-decoration: underline;
+    display: grid;
+    justify-content: center; 
+    align-items: center; 
+}
