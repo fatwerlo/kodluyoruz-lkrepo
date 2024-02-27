@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: opx;
+}
+.bg-custom{
+    background-color:#E9ECEF;
+}
+#draw{
+    border-style:solid;
+    border-color: black;
+    border-width: 15px;
+    background-color: black;
+}
+#draw a{
+    text-decoration: none;
+}
+#muzikFirst{
+    color: rgb(0, 119, 255);
+}
+#muzikSecond,#muzikThird,#muzikFourth{
+color: rgba(133, 132, 132, 0.714);
+}
+#text{
+    position: relative;
+    left: 670px;
+}
+#aboutUs{
+    color: rgb(7, 4, 9);
+}
+.paragraf{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box{
+   border-style: none;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: 100px;
+   width: 10px;
+   height: 450px;
+}
+#boxes{
+    padding: 50px;
+}
+.img{
+    margin-right: 400px;
+    margin-left: -35px;
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    padding-bottom: 120px;
+    margin-right: -20px;
+}
+.text{
+    color: #7913ac;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -90px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.but{
+    width: 60px;
+    height: 25px;
+    text-align: center;
+}
+.but1{
+    margin-top: -7px;
+}
